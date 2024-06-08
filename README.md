@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-faizan-khan61" alt="md-faizan-khan61" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce site using MERN**
+- 🌱  currently learning **Reactjs**
 
-- 🌱 I’m currently learning **Reactjs**
-
-- 🤝 I’m looking for help with ** Looking for a team or an organization where I can learn and develop my skill**
+- 🤝 ** Looking for a team or an organization where I can learn and develop my skill**
 
 - 💬 Ask me about **Front-end Development and Competitive Programming,Exressjs,Mongodb,Nodejs**
 
